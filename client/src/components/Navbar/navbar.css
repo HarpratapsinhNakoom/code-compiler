@@ -1,0 +1,21 @@
+.navbar-container {
+    width: 100%;
+    height: 75px;
+    color: var(--txt-purple);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#navbar-maintext {
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: 1.4px;
+}
+#navbar-minitext {
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1.4px;
+}
