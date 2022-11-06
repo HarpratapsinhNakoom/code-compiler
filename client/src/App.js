@@ -1,12 +1,13 @@
 import './App.css';
 import Compiler from './pages/Compiler';
+// import styled from 'styled-components'
 
+// const Container = styled.div``
 function App() {
   return (
-    <div className="App">
-        jrfurnf
-        <Compiler />
-    </div>
+      // <Container>
+          <Compiler />
+      // </Container>
   );
 }
 
